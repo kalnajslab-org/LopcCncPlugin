@@ -260,7 +260,7 @@ namespace AllenTestPlugin
          */
         override public string OutputCSVHeaderSegment()
         {
-            return ", 300nm [#/2s], 350nm [#/2s], 400nm [#/2s], 500nm [#/2s], 600nm [#/2s], 700nm [#/2s], 800nm [#/2s], 1um [#/2s], 1.5um [#/2s], 2um [#/2s], 2.5um [#/2s], 3um [#/2s], 4um [#/2s], 5um [#/2s], 6um [#/2s], 10um [#/2s], 16um [#/2s], I Pump1 [mA], I Pump2 [mA], T Pump (average) [C], Battery [V], CN 300nm [#/2s], CN 500nm [diff #/2s], CN 700nm [diff #/2s], CN 1000 [diff #/2s], CN 3000 [diff #/2s], CN Pump1 I [mA],  CN Pump2 I [mA], CN T Pump (Ave) [C], CN Saturator T [C], CN Battery V [V], Ice Jacket [C], ";
+            return ", 300nm [#/2s], 350nm [#/2s], 400nm [#/2s], 500nm [#/2s], 600nm [#/2s], 700nm [#/2s], 800nm [#/2s], 1um [#/2s], 1.5um [#/2s], 2um [#/2s], 2.5um [#/2s], 3um [#/2s], 4um [#/2s], 5um [#/2s], 6um [#/2s], 10um [#/2s], 16um [#/2s], I Pump1 [mA], I Pump2 [mA], T Pump (average) [C], Battery [V], CN 300nm [#/2s], CN 500nm [#/2s], CN 700nm [#/2s], CN 1000 [#/2s], CN 3000 [#/2s], CN Pump1 I [mA],  CN Pump2 I [mA], CN T Pump (Ave) [C], CN Saturator T [C], CN Battery V [V], Ice Jacket [C], ";
         }
 
         /**
