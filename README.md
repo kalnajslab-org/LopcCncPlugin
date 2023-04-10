@@ -1,1 +1,1 @@
-# Skysonde LOPC and CNC Plugin
+# Skysonde Client LOPC and CNC Plugin
