@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+!AllenTestPlugin/LopcCncPlugin/bin/Debug/LOPC_CNC_Plugin.dll 
+
 # User-specific files
 *.rsuser
 *.suo
